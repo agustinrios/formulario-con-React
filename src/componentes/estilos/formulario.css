@@ -1,0 +1,40 @@
+.informacion{
+    width: 46%;
+    display: inline-flex;
+    margin-right: 30px;
+    padding: 25px;
+}
+
+h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 40%;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 30px;
+    width: 30%;
+    margin-left: 35%;
+}
+
+.info{
+    width: 95%;
+    padding: 25px;
+}
+
+.info2{
+    width: 95%;
+}
+
+.span1{
+    display: inline-flex;
+}
+
+.span2{
+    margin-left: 33%;
+}
+
+.correo{
+    margin-bottom: 30px;
+}
